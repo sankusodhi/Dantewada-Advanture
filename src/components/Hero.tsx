@@ -14,7 +14,7 @@ type SlideData = {
 const slides: SlideData[] = [
   {
     id: 1,
-    imageSrc: '/Images-uploads/44997248-2a7d-4c4b-8656-13d704d35b37.png',
+    imageSrc: '/Images-uploads/danteshwari-temple-chhattisgarh-one-of-52-shakti-peethas-51.webp',
     title: 'माँ दंतेश्वरी मंदिर',
     subtitle: 'छत्तीसगढ़ के 52 शक्तिपीठों में से एक, दंतेवाड़ा का गौरवशाली धार्मिक केंद्र'
   },
@@ -26,31 +26,31 @@ const slides: SlideData[] = [
   },
   {
     id: 3,
-    imageSrc: '/Images-uploads/cc6dd7ad-c5fb-4fef-9dd0-f8dca5d5a10d.png',
+    imageSrc: '/Images-uploads/phulpahad.jpeg',
     title: 'फुलपाड़ जलप्रपात',
     subtitle: 'प्राकृतिक सुंदरता से भरपूर मनमोहक जलप्रपात, बारिश के मौसम में और भी खूबसूरत'
   },
   {
     id: 4,
-    imageSrc: '/Images-uploads/b4c6f3a5-3500-43ad-97e1-e69041317e64.png', 
+    imageSrc: '/Images-uploads/11_30_127350838gond-tribe-4.jpg', 
     title: 'गोंड जनजातीय संस्कृति',
     subtitle: 'समृद्ध आदिवासी परंपरा, कला और शिल्प का अनुभव लें'
   },
   {
     id: 5,
-    imageSrc: '/Images-uploads/d6a0abf8-3fb5-4717-9fff-6a3a99f2becf.png', 
+    imageSrc: '/Images-uploads/bailadila.jpeg', 
     title: 'बैलाडीला पर्वत श्रृंखला',
     subtitle: 'लौह अयस्क से भरपूर पहाड़ियों और हरी-भरी वादियों का मनोरम दृश्य'
   },
   {
     id: 6,
-    imageSrc: '/Images-uploads/45ac4715-903c-4b9d-aaf3-c8fbe391b9a7.png',
+    imageSrc: '/Images-uploads/vanmandir.jpeg',
     title: 'गुर्रालझीन पवित्र उपवन',
     subtitle: 'आध्यात्मिक शांति और प्राकृतिक सुंदरता का संगम'
   },
   {
     id: 7,
-    imageSrc: '/Images-uploads/ac22646b-1aa2-41fc-8799-5ece999eabac.png',
+    imageSrc: '/Images-uploads/vaibav.jpeg',
     title: 'दंतेवाड़ा का प्राकृतिक वैभव',
     subtitle: 'हरे-भरे जंगल, नदियाँ और पारंपरिक गाँवों की खोज करें'
   }
