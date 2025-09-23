@@ -37,7 +37,7 @@ const Footer: React.FC = () => {
         <div className="container mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 py-16 px-4">
             <div className="space-y-4 animate-fade-in">
-              <h3 className="text-2xl font-display font-semibold">Dandeli Adventure Resorts</h3>
+              <h3 className="text-2xl font-display font-semibold">Dantewada Adventure Resorts</h3>
               <p className="text-accent-foreground/80 max-w-xs">
                 Discover a world of adventure and tranquility nestled in the heart of nature's paradise.
               </p>
@@ -71,23 +71,23 @@ const Footer: React.FC = () => {
                 <li className="flex items-start space-x-3">
                   <MapPin size={20} className="mt-1 flex-shrink-0" />
                   <span className="text-accent-foreground/80">
-                    Dandeli Wildlife Sanctuary, Karnataka, India - 581325
+                    Dantewada Wildlife Sanctuary, Karnataka, India - 581325
                   </span>
                 </li>
                 <li className="flex items-center space-x-3">
                   <Phone size={20} className="flex-shrink-0" />
                   <div className="flex flex-col">
-                    <a href="https://wa.me/918277385225?text=Hi!%20I'm%20interested%20in%20booking%20an%20adventure%20at%20Dandeli." target="_blank" rel="noopener noreferrer" className="text-accent-foreground/80 hover:text-accent-foreground transition-colors duration-300">
-                      +91 8277385225
+                    <a href="https://wa.me/916268409259?text=Hi!%20I'm%20interested%20in%20booking%20an%20adventure%20at%20Dandeli." target="_blank" rel="noopener noreferrer" className="text-accent-foreground/80 hover:text-accent-foreground transition-colors duration-300">
+                      +91 6268409259
                     </a>
-                    <a href="tel:+917795601255" className="text-accent-foreground/80 hover:text-accent-foreground transition-colors duration-300">
-                      +91 7795601255
+                    <a href="tel:+916268409259" className="text-accent-foreground/80 hover:text-accent-foreground transition-colors duration-300">
+                      +91 6268409259
                     </a>
                   </div>
                 </li>
                 <li className="flex items-center space-x-3">
                   <Mail size={20} className="flex-shrink-0" />
-                  <span className="text-accent-foreground/80 text-base">dandeliadventure.info@gmail.com</span>
+                  <span className="text-accent-foreground/80 text-base">dantewadaadventure.info@gmail.com</span>
                 </li>
               </ul>
             </div>
@@ -107,7 +107,7 @@ const Footer: React.FC = () => {
           </div>
           
           <div className="border-t border-white/10 py-6 px-4 text-center text-accent-foreground/70">
-            <p>© {currentYear} Dandeli Adventure Resorts. All rights reserved.</p>
+            <p>© {currentYear} Dantewada Adventure Resorts. All rights reserved.</p>
           </div>
         </div>
       </footer>
