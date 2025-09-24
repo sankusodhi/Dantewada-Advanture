@@ -45,7 +45,7 @@ const slides: SlideData[] = [
   {
     id: 6,
     imageSrc: '/Images-uploads/vanmandir.jpeg',
-    title: 'गुर्रालझीन पवित्र उपवन',
+    title: 'वनमंदिर पवित्र उपवन',
     subtitle: 'आध्यात्मिक शांति और प्राकृतिक सुंदरता का संगम'
   },
   {
