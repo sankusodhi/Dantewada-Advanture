@@ -71,7 +71,7 @@ const Footer: React.FC = () => {
                 <li className="flex items-start space-x-3">
                   <MapPin size={20} className="mt-1 flex-shrink-0" />
                   <span className="text-accent-foreground/80">
-                    Dantewada Wildlife Sanctuary, Karnataka, India - 581325
+                    Dantewada Wildlife Sanctuary, Chhattisgarh, India - 494441
                   </span>
                 </li>
                 <li className="flex items-center space-x-3">
